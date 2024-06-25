@@ -88,3 +88,6 @@ install_script = install.sh
 managed_services = 
 	moonraker-obico
 
+[file_manager]
+enable_object_processing = True
+
